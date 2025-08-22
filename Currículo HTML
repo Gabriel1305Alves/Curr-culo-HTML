@@ -13,7 +13,7 @@
 
         <div class="header">
         <img src="Foto da minha pessoa.jpeg" alt="Bone appetit" width="">
-        <h1>Brecuário</h1>
+        <h1>Portfólio</h1>
         <h1>Gabriel Alves de Andrade</h1>
       	<p>Brasileiro, 23 anos</p>
       <p>Recife – Pernambuco</p>
@@ -70,6 +70,12 @@
       <li>Ferramentas: Pacote Office, Git, Figma, …</li>
       <li>Outros: Edição de imagens, participação em eventos, voluntariado, …</li>
     </ul>
-    </div>
+
+    <div class="button">
+        <button id="bnt-print">Imprimir/Salvar PDF</div>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
 </body>
 </html>
